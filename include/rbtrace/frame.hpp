@@ -1,5 +1,5 @@
 /*
-Core header and basic frame walker
+Core header
 */
 
 #pragma once
